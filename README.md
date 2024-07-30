@@ -29,6 +29,6 @@ cd The-Pong-Game
 python pong_game.py
 ```
 ## Controls:
-<ul>Player 1: Use the W and S keys to move the paddle up and down</ul>
-<ul>Player 2: Use the Up and Down arrow keys to move the paddle up and down</ul>
+- Player 1: Use the W and S keys to move the paddle up and down
+- Player 2: Use the Up and Down arrow keys to move the paddle up and down
 
