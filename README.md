@@ -18,7 +18,7 @@ pip install PythonTurtle
 
 ## 1. Clone the repository
 ```bash
-git clone https://github.com/yourusername/The-Pong-Game.git
+git clone https://github.com/ABRock20/The-Pong-Game.git
 ```
 ## 2. Navigate to the project directory:
 ```bash
