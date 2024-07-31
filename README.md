@@ -26,7 +26,7 @@ cd The-Pong-Game
 ```
 ## 3. Run the game:
 ```bash
-python pong_game.py
+python main.py
 ```
 ## Controls:
 - Player 1: Use the W and S keys to move the paddle up and down
